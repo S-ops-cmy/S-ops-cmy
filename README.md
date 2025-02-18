@@ -2,7 +2,7 @@
  
 <div id="header" align="center">
  
-<h1>HI Everyone Shivam this side 😎!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hi Everyone Shivam this side 😎!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
  
 </div>
  
